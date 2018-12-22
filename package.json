@@ -1,0 +1,17 @@
+{
+  "name": "fractal-status-helper",
+  "version": "1.0.0",
+  "description": "A helper for the Fractal styleguide system that allows you quickly display status tables",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fractal",
+    "design",
+    "build",
+    "handlebars"
+  ],
+  "author": "Scott Johnson <jaywir3@gmail.com>",
+  "license": "MPL-2.0"
+}
